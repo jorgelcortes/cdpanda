@@ -8,10 +8,10 @@
 	.st2{font-size:32px;}
 	.st3{fill:none;}
 	.st4{fill:#231F20;}
-	.st5{font-family:'BentonSans-Book';}
+	.st5{font-family:'Roboto-Light';}
 	.st6{font-size:26px;}
 	.st7{fill:#F0592C;}
-	.st8{font-family:'BentonSans-Bold';}
+	.st8{font-family:'Roboto-Black';}
 	.st9{font-size:36px;}
 	.st10{fill:#6D6E70;}
 	.st11{font-size:24px;}
@@ -33,13 +33,13 @@
 </g>
 <g>
 	<rect x="4.17" y="172.39" class="st3" width="401.44" height="152.4"/>
-	<text transform="matrix(1 0 0 1 4.1734 191.6337)"><tspan x="0" y="0" class="st4 st5 st6">When the giant panda cub is </tspan><tspan x="0" y="31.2" class="st4 st5 st6">about 2 years old, it will leave its </tspan><tspan x="0" y="62.4" class="st4 st5 st6">mother and return to the wild </tspan><tspan x="0" y="93.6" class="st4 st5 st6">with a tracking collar fitted.</tspan></text>
+	<text transform="matrix(1 0 0 1 4.1734 191.8945)"><tspan x="0" y="0" class="st4 st5 st6">When the giant panda cub is about </tspan><tspan x="0" y="31.2" class="st4 st5 st6">2 years old, it will leave its mother </tspan><tspan x="0" y="62.4" class="st4 st5 st6">and return to the wild with a track</tspan><tspan x="378.56" y="62.4" class="st4 st5 st6">-</tspan><tspan x="0" y="93.6" class="st4 st5 st6">ing collar fitted.</tspan></text>
 </g>
 <g>
 	<text transform="matrix(1 0 0 1 4.1733 148.6281)" class="st7 st8 st9">INTO THE WILD</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 639.0715 483.848)"><tspan x="0" y="0" class="st10 st5 st11">Tracking</tspan><tspan x="17.7" y="28.8" class="st10 st5 st11">collar</tspan></text>
+	<text transform="matrix(1 0 0 1 641.5041 483.848)"><tspan x="0" y="0" class="st10 st5 st11">Tracking</tspan><tspan x="16.88" y="28.8" class="st10 st5 st11">collar</tspan></text>
 </g>
 <g>
 	<path class="st12" d="M769.88,236.33l-2.53-11.83c0,0-7.6,0.84-6.76-2.53c0.84-3.38-5.07-16.05-5.07-16.05l-5.07-12.67l-5.91-9.29
@@ -104,11 +104,8 @@
 	<polyline class="st18" points="529.57,407.88 599.29,430.81 589.97,749.4 	"/>
 	<line class="st18" x1="608.51" y1="426.5" x2="599.29" y2="430.81"/>
 </g>
-<g id="panda-collar.psd_1_">
-	
-		<image style="overflow:visible;" width="919" height="962" id="panda-collar" xlink:href="7DBF8E49EBB8CBCB.png"  transform="matrix(0.3527 0 0 0.3527 54.4943 519.8482)">
-	</image>
-</g>
+<image style="overflow:visible;" width="325" height="341" xlink:href="7DBF8E49EBB8CBC8.png"  transform="matrix(1 0 0 1 54 519.01)">
+</image>
 <path class="st19" d="M273.45,429.39c0,0-86.39,22.87-38.24,96.58l-30.19,4.98l90.28,46.65l11.98-63.78l-30.66,5.06
 	C276.62,518.89,202.86,459.71,273.45,429.39z"/>
 <path class="st20" d="M273.45,429.39c0,0-86.39,22.87-38.24,96.58l-30.19,4.98l90.28,46.65l11.98-63.78l-30.66,5.06

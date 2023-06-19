@@ -4,21 +4,20 @@
 	 viewBox="0 0 795 780.01" style="enable-background:new 0 0 795 780.01;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#231F20;}
-	.st1{font-family:'BentonSans-Light';}
+	.st1{font-family:'Roboto-Light';}
 	.st2{font-size:30px;}
 	.st3{fill:#808184;}
 	.st4{font-family:'Roboto-BlackItalic';}
 	.st5{font-size:32px;}
 	.st6{fill:none;}
-	.st7{font-family:'BentonSans-Book';}
-	.st8{font-size:26px;}
-	.st9{fill:#F0592C;}
-	.st10{font-family:'BentonSans-Bold';}
-	.st11{font-size:36px;}
-	.st12{fill:#FFFFFF;}
-	.st13{font-size:54px;}
+	.st7{font-size:26px;}
+	.st8{fill:#F0592C;}
+	.st9{font-family:'Roboto-Black';}
+	.st10{font-size:36px;}
+	.st11{fill:#FFFFFF;}
+	.st12{font-size:54px;}
 </style>
-<image style="overflow:visible;" width="543" height="621" xlink:href="729A6EF535897FEF.jpg"  transform="matrix(1 0 0 1 255 125.01)">
+<image style="overflow:visible;" width="543" height="621" xlink:href="729A6EF535897FEC.jpg"  transform="matrix(1 0 0 1 255 125.01)">
 </image>
 <g>
 	<text transform="matrix(1 0 0 1 88.495 88.2546)" class="st0 st1 st2">Second-STAGE TRAINING AREA</text>
@@ -28,19 +27,19 @@
 </g>
 <g>
 	<polygon class="st6" points="262.94,532.53 7.05,532.53 7.05,211.42 362.96,211.42 	"/>
-	<text transform="matrix(1 0 0 1 7.0505 230.6609)"><tspan x="0" y="0" class="st0 st7 st8">The second-stage training </tspan><tspan x="0" y="31.2" class="st0 st7 st8">area is larger, about </tspan><tspan x="0" y="62.4" class="st0 st7 st8">2,000-3,000 square </tspan><tspan x="0" y="93.6" class="st0 st7 st8">meters. In addition to </tspan><tspan x="0" y="124.8" class="st0 st7 st8">some monitoring </tspan><tspan x="0" y="156" class="st0 st7 st8">equipment, this training </tspan><tspan x="0" y="187.2" class="st0 st7 st8">area is essentially the </tspan><tspan x="0" y="218.4" class="st0 st7 st8">same as the wild </tspan><tspan x="0" y="249.6" class="st0 st7 st8">natural environment</tspan></text>
+	<text transform="matrix(1 0 0 1 7.0505 230.9212)"><tspan x="0" y="0" class="st0 st1 st7">The second-stage training </tspan><tspan x="0" y="31.2" class="st0 st1 st7">area is larger, about </tspan><tspan x="0" y="62.4" class="st0 st1 st7">2,000-3,000 square meters. </tspan><tspan x="0" y="93.6" class="st0 st1 st7">In addition to some </tspan><tspan x="0" y="124.8" class="st0 st1 st7">monitoring equipment, this </tspan><tspan x="0" y="156" class="st0 st1 st7">training area is essentially </tspan><tspan x="0" y="187.2" class="st0 st1 st7">the same as the wild </tspan><tspan x="0" y="218.4" class="st0 st1 st7">natural environment</tspan></text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 6.2576 183.2161)" class="st9 st10 st11">WILD ENVIRONMENT</text>
+	<text transform="matrix(1 0 0 1 6.2576 183.2161)" class="st8 st9 st10">WILD ENVIRONMENT</text>
 </g>
 <g>
 	<rect x="7.67" y="560.04" class="st6" width="273.1" height="316.23"/>
-	<text transform="matrix(1 0 0 1 7.6739 579.2798)"><tspan x="0" y="0" class="st0 st7 st8">The steep slope of the </tspan><tspan x="0" y="31.2" class="st0 st7 st8">ground and the habitat </tspan><tspan x="0" y="62.4" class="st0 st7 st8">of the area help the </tspan><tspan x="0" y="93.6" class="st0 st7 st8">panda cub obtain </tspan><tspan x="0" y="124.8" class="st0 st7 st8">survival skills for the </tspan><tspan x="0" y="156" class="st0 st7 st8">wilderness.</tspan></text>
+	<text transform="matrix(1 0 0 1 7.6739 579.5401)"><tspan x="0" y="0" class="st0 st1 st7">The steep slope of the </tspan><tspan x="0" y="31.2" class="st0 st1 st7">ground and the habitat </tspan><tspan x="0" y="62.4" class="st0 st1 st7">of the area help the </tspan><tspan x="0" y="93.6" class="st0 st1 st7">panda cub obtain </tspan><tspan x="0" y="124.8" class="st0 st1 st7">survival skills for the </tspan><tspan x="0" y="156" class="st0 st1 st7">wilderness.</tspan></text>
 </g>
 <g>
-	<circle class="st9" cx="38.73" cy="75.33" r="36.73"/>
+	<circle class="st8" cx="38.73" cy="75.33" r="36.73"/>
 	<g>
-		<text transform="matrix(1 0 0 1 22.1481 95.1879)" class="st12 st4 st13">3</text>
+		<text transform="matrix(1 0 0 1 22.1481 95.1879)" class="st11 st4 st12">3</text>
 	</g>
 </g>
 </svg>

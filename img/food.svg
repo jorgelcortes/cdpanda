@@ -5,26 +5,27 @@
 <style type="text/css">
 	.st0{fill:none;}
 	.st1{fill:#231F20;}
-	.st2{font-family:'BentonSans-Book';}
+	.st2{font-family:'Roboto-Light';}
 	.st3{font-size:26px;}
-	.st4{font-family:'BentonSans-Bold';}
+	.st4{font-family:'Roboto-Black';}
 	.st5{font-size:36px;}
 	.st6{fill:#6D6E70;}
+	.st7{font-family:'Roboto-Regular';}
 </style>
-<image style="overflow:visible;" width="682" height="683" xlink:href="EB5D1B701B348C2B.jpg"  transform="matrix(1 0 0 1 73 256.23)">
+<image style="overflow:visible;" width="682" height="683" xlink:href="EB5D1B701B348C2A.jpg"  transform="matrix(1 0 0 1 73 256.23)">
 </image>
 <rect x="1" y="66.97" class="st0" width="795" height="361.89"/>
-<text transform="matrix(1 0 0 1 1.0002 86.2127)"><tspan x="0" y="0" class="st1 st2 st3">Even the giant pandas have have a shorter gut (typical of </tspan><tspan x="0" y="31.2" class="st1 st2 st3">carnivores), they like eating bamboo and there are more than 20 </tspan><tspan x="0" y="62.4" class="st1 st2 st3">species of the plant. Pandas prefer bamboo roots, shoots and </tspan><tspan x="0" y="93.6" class="st1 st2 st3">leaves, especially shoots.</tspan><tspan x="0" y="124.8" class="st1 st2 st3">With very little nutritional value in bamboo, pandas must eat 23 – </tspan><tspan x="0" y="156" class="st1 st2 st3">40 kg every day to meet their energy needs.</tspan></text>
+<text transform="matrix(1 0 0 1 1.0002 86.4729)"><tspan x="0" y="0" class="st1 st2 st3">Even the giant pandas have have a shorter gut (typical of carnivores), </tspan><tspan x="0" y="31.2" class="st1 st2 st3">they like eating bamboo and there are more than 20 species of the </tspan><tspan x="0" y="62.4" class="st1 st2 st3">plant. Pandas prefer bamboo roots, shoots and leaves, especially </tspan><tspan x="0" y="93.6" class="st1 st2 st3">shoots. With very little nutritional value in bamboo, pandas must eat </tspan><tspan x="0" y="124.8" class="st1 st2 st3">23 – 40 kg every day to meet their energy needs.</tspan></text>
 <g>
 	<text transform="matrix(1 0 0 1 1.0002 47.3885)" class="st1 st4 st5">FAVOURITE FOOD</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 444.4871 332.2475)" class="st6 st2 st3">Leaves</text>
+	<text transform="matrix(1 0 0 1 444.4871 332.2475)" class="st6 st7 st3">Leaves</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 184.6266 462.6735)" class="st6 st2 st3">Culm</text>
+	<text transform="matrix(1 0 0 1 184.6266 462.6735)" class="st6 st7 st3">Culm</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 280.5416 701.246)" class="st6 st2 st3">Shoots</text>
+	<text transform="matrix(1 0 0 1 280.5416 701.246)" class="st6 st7 st3">Shoots</text>
 </g>
 </svg>

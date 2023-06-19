@@ -11,13 +11,13 @@
 	.st5{fill:none;stroke:#FFFFFF;stroke-width:0.3;stroke-miterlimit:10;}
 	.st6{fill:none;}
 	.st7{fill:#231F20;}
-	.st8{font-family:'BentonSans-Book';}
+	.st8{font-family:'Roboto-Light';}
 	.st9{font-size:26px;}
-	.st10{font-family:'BentonSans-Bold';}
+	.st10{font-family:'Roboto-Black';}
 	.st11{font-size:34px;}
 	.st12{fill:none;stroke:#F05A28;stroke-miterlimit:10;}
 </style>
-<image style="overflow:visible;" width="396" height="623" xlink:href="D7312A1A896B7900.jpg"  transform="matrix(1 0 0 1 367 128.61)">
+<image style="overflow:visible;" width="396" height="623" xlink:href="D7312A1A896B7901.jpg"  transform="matrix(1 0 0 1 367 128.61)">
 </image>
 <path class="st0" d="M174.04,764.61c0,0,0.46-215.22,273.72-283.2"/>
 <g>
@@ -146,12 +146,12 @@
 		C610.3,232.52,608.78,225.87,607.52,218.97z"/>
 </g>
 <g>
-	<rect x="0.79" y="137.86" class="st6" width="297.21" height="382.79"/>
-	<text transform="matrix(1 0 0 1 0.7906 157.101)"><tspan x="0" y="0" class="st7 st8 st9">Giant pandas have six </tspan><tspan x="0" y="31.2" class="st7 st8 st9">fingers. Ttheir thumbs </tspan><tspan x="0" y="62.4" class="st7 st8 st9">cannot move, and the </tspan><tspan x="0" y="93.6" class="st7 st8 st9">other five fingers are </tspan><tspan x="0" y="124.8" class="st7 st8 st9">arranged in a straight </tspan><tspan x="0" y="156" class="st7 st8 st9">line.</tspan></text>
+	<rect x="0.79" y="137.86" class="st6" width="297.21" height="178.14"/>
+	<text transform="matrix(1 0 0 1 0.7915 157.3617)"><tspan x="0" y="0" class="st7 st8 st9">Giant pandas have six </tspan><tspan x="0" y="31.2" class="st7 st8 st9">fingers. Ttheir thumbs </tspan><tspan x="0" y="62.4" class="st7 st8 st9">cannot move, and the </tspan><tspan x="0" y="93.6" class="st7 st8 st9">other five fingers are </tspan><tspan x="0" y="124.8" class="st7 st8 st9">arranged in a straight line.</tspan></text>
 </g>
 <g>
 	<rect x="0.79" y="377.03" class="st6" width="297.21" height="382.79"/>
-	<text transform="matrix(1 0 0 1 0.7915 396.2659)"><tspan x="0" y="0" class="st7 st8 st9">Unlike other bears, the </tspan><tspan x="0" y="31.2" class="st7 st8 st9">panda&apos;s sixth digit plays </tspan><tspan x="0" y="62.4" class="st7 st8 st9">the role of an opposable </tspan><tspan x="0" y="93.6" class="st7 st8 st9">thumb, which allows it to </tspan><tspan x="0" y="124.8" class="st7 st8 st9">work with the other </tspan><tspan x="0" y="156" class="st7 st8 st9">digits and hold bamboo </tspan><tspan x="0" y="187.2" class="st7 st8 st9">efficiently.</tspan></text>
+	<text transform="matrix(1 0 0 1 0.7915 396.5257)"><tspan x="0" y="0" class="st7 st8 st9">Unlike other bears, the </tspan><tspan x="0" y="31.2" class="st7 st8 st9">panda&apos;s sixth digit plays </tspan><tspan x="0" y="62.4" class="st7 st8 st9">the role of an opposable </tspan><tspan x="0" y="93.6" class="st7 st8 st9">thumb, which allows it to </tspan><tspan x="0" y="124.8" class="st7 st8 st9">work with the other digits </tspan><tspan x="0" y="156" class="st7 st8 st9">and hold bamboo </tspan><tspan x="0" y="187.2" class="st7 st8 st9">efficiently.</tspan></text>
 </g>
 <g>
 	<text transform="matrix(1 0 0 1 -4.577637e-04 109.6561)" class="st7 st10 st11">FALSE THUMB</text>
