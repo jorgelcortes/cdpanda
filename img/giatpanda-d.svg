@@ -3,13 +3,14 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1920 2452" style="enable-background:new 0 0 1920 2452;" xml:space="preserve">
 <style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');
 	.st0{fill:none;stroke:#231F20;stroke-width:0.7528;stroke-miterlimit:10;}
 	.st1{fill:none;stroke:#808184;stroke-width:0.75;stroke-miterlimit:10;stroke-dasharray:1.5,1.5;}
 	.st2{fill:none;}
 	.st3{fill:#FFFFFF;}
-	.st4{font-family:'Roboto-Regular';}
+	.st4{font-family:'Roboto';font-weight: 300;}
 	.st5{font-size:26px;}
-	.st6{font-family:'Roboto-Black';}
+	.st6{font-family:'Roboto';font-weight: 700;}
 	.st7{font-size:36px;}
 	.st8{fill:#231F20;}
 	.st9{fill:none;stroke:#231F20;stroke-width:0.9;stroke-miterlimit:10;}
@@ -17,7 +18,7 @@
 	.st11{fill:none;stroke:#F05A28;stroke-width:3;stroke-miterlimit:10;}
 	.st12{fill:#F05A28;}
 	.st13{fill:none;stroke:#1D1D1B;stroke-miterlimit:10;}
-	.st14{font-family:'BentonSans-Book';}
+	.st14{font-family:'Roboto';font-weight: 300;}
 </style>
 <image style="overflow:visible;" width="1783" height="1239" xlink:href="DF9DFC09C8418CE.jpg"  transform="matrix(0.36 0 0 0.36 1229.76 205.96)">
 </image>

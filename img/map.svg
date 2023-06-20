@@ -3,10 +3,11 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 795 838.76" style="enable-background:new 0 0 795 838.76;" xml:space="preserve">
 <style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');
 	.st0{fill:#231F20;}
-	.st1{font-family:'BentonSans-Book';}
+	.st1{font-family:'Roboto';font-weight: 300;}
 	.st2{font-size:24px;}
-	.st3{font-family:'Arial-ItalicMT';}
+	.st3{font-family:'Roboto';font-weight: 700;}
 	.st4{fill:#A8D27D;}
 	.st5{opacity:0.6;fill:#DFE573;}
 	.st6{fill:none;stroke:#231F20;stroke-width:0.3;stroke-miterlimit:10;}
@@ -15,13 +16,13 @@
 	.st9{fill:none;}
 	.st10{font-size:26px;}
 </style>
-<image style="overflow:visible;" width="795" height="522" xlink:href="3158379477EBBD2F.png"  transform="matrix(1 0 0 1 0 316.7601)">
+<image style="overflow:visible;" width="795" height="522" xlink:href="3158379477EBBD2E.png"  transform="matrix(1 0 0 1 0 316.7601)">
 </image>
 <g>
 	<text transform="matrix(1 0 0 1 62.7682 221.1603)" class="st0 st1 st2">Distribution of bamboo forests in China</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 62.7682 255.5301)"><tspan x="0" y="0" class="st0 st1 st2">Historical range of the giant panda (</tspan><tspan x="391.58" y="0" class="st0 st3 st2">Ailuropoda melanoleuca</tspan><tspan x="649.09" y="0" class="st0 st1 st2">)</tspan></text>
+	<text transform="matrix(1 0 0 1 62.7682 255.5301)"><tspan x="0" y="0" class="st0 st1 st2">Historical range of the giant panda </tspan><tspan x="367.2" y="0" class="st0 st3 st2">(Ailuropoda melanoleuca)</tspan></text>
 </g>
 <g>
 	<text transform="matrix(1 0 0 1 62.7682 289.8998)" class="st0 st1 st2">Modern distribution of the giant panda</text>
@@ -42,10 +43,10 @@
 			</g>
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 547.9644 792.1304)" class="st0 st1 st2">500 km</text>
+	<text transform="matrix(1 0 0 1 551.2671 792.1304)" class="st0 st1 st2">500 km</text>
 </g>
 <g>
 	<rect x="2.88" y="18.88" class="st9" width="792.12" height="171.21"/>
-	<text transform="matrix(1 0 0 1 2.877 38.121)"><tspan x="0" y="0" class="st0 st1 st10">The crude &quot;thumb&quot; suggests that the origin of the panda&apos;s </tspan><tspan x="0" y="31.2" class="st0 st1 st10">bamboo-dedicated diet dates back 6 to 7 million years, according </tspan><tspan x="0" y="62.4" class="st0 st1 st10">to a study published in Nature. The historical geographic </tspan><tspan x="0" y="93.6" class="st0 st1 st10">distribution of pandas seems to coincide with the distribution of </tspan><tspan x="0" y="124.8" class="st0 st1 st10">bamboo forests in China.</tspan></text>
+	<text transform="matrix(1 0 0 1 2.877 38.3813)"><tspan x="0" y="0" class="st0 st1 st10">The crude &quot;thumb&quot; suggests that the origin of the panda&apos;s </tspan><tspan x="0" y="31.2" class="st0 st1 st10">bamboo-dedicated diet dates back 6 to 7 million years, according to a </tspan><tspan x="0" y="62.4" class="st0 st1 st10">study published in Nature. The historical geographic distribution of </tspan><tspan x="0" y="93.6" class="st0 st1 st10">pandas seems to coincide with the distribution of bamboo forests in </tspan><tspan x="0" y="124.8" class="st0 st1 st10">China.</tspan></text>
 </g>
 </svg>

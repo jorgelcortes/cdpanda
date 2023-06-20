@@ -3,14 +3,15 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 795 905.23" style="enable-background:new 0 0 795 905.23;" xml:space="preserve">
 <style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');
 	.st0{fill:none;}
 	.st1{fill:#231F20;}
-	.st2{font-family:'Roboto-Light';}
+	.st2{font-family:'Roboto';font-weight: 300;}
 	.st3{font-size:26px;}
-	.st4{font-family:'Roboto-Black';}
+	.st4{font-family:'Roboto';font-weight: 700;}
 	.st5{font-size:36px;}
 	.st6{fill:#6D6E70;}
-	.st7{font-family:'Roboto-Regular';}
+	.st7{font-family:'Roboto';font-weight: 300;}
 </style>
 <image style="overflow:visible;" width="682" height="683" xlink:href="EB5D1B701B348C2A.jpg"  transform="matrix(1 0 0 1 73 256.23)">
 </image>

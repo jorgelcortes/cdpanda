@@ -3,15 +3,16 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 795 1945" style="enable-background:new 0 0 795 1945;" xml:space="preserve">
 <style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');
 	.st0{fill:none;stroke:#231F20;stroke-miterlimit:10;}
 	.st1{fill:none;stroke:#F05A28;stroke-width:4;stroke-miterlimit:10;}
 	.st2{fill:#F05A28;}
 	.st3{fill:none;}
 	.st4{fill:#231F20;}
-	.st5{font-family:'Roboto-Regular';}
+	.st5{font-family:'Roboto';font-weight: 300;}
 	.st6{font-size:26px;}
 	.st7{fill:#FFFFFF;}
-	.st8{font-family:'Roboto-Black';}
+	.st8{font-family:'Roboto';font-weight: 700;}
 	.st9{font-size:36px;}
 </style>
 <image style="overflow:visible;" width="1783" height="1239" xlink:href="E45A33327050F5F.jpg"  transform="matrix(0.2531 0 0 0.2531 -93.8848 125.96)">

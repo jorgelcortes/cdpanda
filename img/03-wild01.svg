@@ -3,16 +3,17 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 795 780.01" style="enable-background:new 0 0 795 780.01;" xml:space="preserve">
 <style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');
 	.st0{fill:#231F20;}
-	.st1{font-family:'Roboto-Light';}
+	.st1{font-family:'Roboto';font-weight: 300;}
 	.st2{font-size:30px;}
 	.st3{fill:#808184;}
-	.st4{font-family:'Roboto-BlackItalic';}
+	.st4{font-family:'Roboto';font-weight: 700;}
 	.st5{font-size:32px;}
 	.st6{fill:none;}
 	.st7{font-size:26px;}
 	.st8{fill:#F0592C;}
-	.st9{font-family:'Roboto-Black';}
+	.st9{font-family:'Roboto';font-weight: 700;}
 	.st10{font-size:36px;}
 	.st11{fill:#FFFFFF;}
 	.st12{font-size:54px;}
